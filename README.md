@@ -1,6 +1,6 @@
 # Project Based on Video Series
 
-This project was developed based on the video series [Agenda de contactos con laravel 8](https://www.youtube.com/playlist?list=PLoRfWwOOv4jzrevVQe8nwOqPhVLN5XsgB) by JEBC-Dev.
+This project was developed based on the video series [Agenda de contactos con laravel 8](https://www.youtube.com/playlist?list=PLoRfWwOOv4jzrevVQe8nwOqPhVLN5XsgB)
 
 ## Project Description
 
